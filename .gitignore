@@ -1,0 +1,13 @@
+*.wav
+*.wave
+*.aup3
+*.aup3-shm
+*.aup3-wal
+*.log
+*.csv
+__pycache__/
+*.py[cod]
+.breakbeat-venv/
+.breakbeat-work-*/
+.restitch-work-*/
+breaks/
